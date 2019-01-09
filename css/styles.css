@@ -18,6 +18,7 @@ p{
 ul{
   font-size: 20px;
   line-height: 70px;
+  text-align: center;
 }
 
 li {
@@ -25,3 +26,5 @@ li {
   font-weight: 20px;
   font-style: italic;
   }
+
+img {align: center;}
